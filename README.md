@@ -1,22 +1,52 @@
+<!-- Title -->
 <h2 align="center">Cassie Bello</h2>
-<p align="center">A self taught <em>designer</em> and <em>developer</em> who's curious about the world</p>
+<!-- End Title -->
+  
+<!-- Socials -->
+  <p align="center"><img alt="Static Badge" src="https://img.shields.io/badge/Instagram-black?style=flat&logo=instagram&logoColor=white&logoSize=auto&labelColor=seagreen&color=white&cacheSeconds=3600&link=https%3A%2F%2Finstagram.com%2Fcassmcxi">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Coffee-black?style=flat&logo=buymeacoffee&logoColor=white&logoSize=auto&labelColor=seagreen&color=white&cacheSeconds=3600&link=https%3A%2F%2Fbuymeacoffee.com%2Fcassmcxi">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Dev.to-black?style=flat&logo=devdotto&logoColor=white&logoSize=auto&labelColor=seagreen&color=white&cacheSeconds=3600&link=https%3A%2F%2Fdev.to%2Fcassmcxi">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Cassmcxi-white?style=flat&logo=discord&logoColor=white&logoSize=auto&labelColor=seagreen&color=white&cacheSeconds=3600&link=https%3A%2F%2Fdiscord.com">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Dribbble-black?style=flat&logo=dribbble&logoColor=white&logoSize=auto&labelColor=seagreen&color=white&cacheSeconds=3600&link=https%3A%2F%2Fdribbble.com%2Fcassmcxi">
+  </p>
+<!-- End Socials -->
 
-<p> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/Instagram-white?style=flat&logo=instagram&logoColor=black&logoSize=auto&labelColor=white&cacheSeconds=3600&link=https%3A%2F%2Fwww.instagram.com%2Fcassmcxi">  <img alt="Static Badge" src="https://img.shields.io/badge/Coffee-yellow?style=flat&logo=buymeacoffee&logoColor=black&logoSize=auto&labelColor=yellow&color=yellow&cacheSeconds=3600&link=https%3A%2F%2Fwww.buymeacoffee.com%2Fcassmcxi">
-</p> 
-<br>
-<br>
+<!-- Introduction -->
+  <body>
+    <p align="center">I'm a self taught designer and developer who leans towards <em>creative front-end developing</em> and learning full stack on the side.</p>
+<!-- End Introduction -->
+    <p align="center">⌖</p>
+<!-- Currrent stack -->
+  <p align="center">Currently learning the <em>Full Stack Dev curriculum</em> on freeCodeCamp. 
+    <br> My learning is paired with things like <em>The Odin Project</em>, <em>lil sidequests</em>, and hands on <em>freelance.</em>
+    <br> < I also just love building things and having fun .𖥔 ݁ ˖ > </I>
+    <br>
+    <br>
+      <em>Here's my current stack:</em></p>
+      <p align="center"><img alt="Static Badge" src="https://img.shields.io/badge/HTML-seagreen?style=flat-square&logo=html5&logoColor=seagreen&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
+        <img alt="Static Badge" src="https://img.shields.io/badge/CSS-seagreen?style=flat-square&logo=css&logoColor=seagreen&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-seagreen?style=flat-square&logo=javascript&logoColor=seagreen&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Figma-seagreen?style=flat-square&logo=figma&logoColor=seagreen&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Claude%20Code-seagreen?style=flat-square&logo=claude&logoColor=seagreen&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
+          <br>
+        <img alt="Static Badge" src="https://img.shields.io/badge/Framer-seagreen?style=flat-square&logo=framer&logoColor=seagreen&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Python-seagreen?style=flat-square&logo=python&logoColor=seagreen&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Webflow-seagreen?style=flat-square&logo=webflow&logoColor=seagreen&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
+        <img alt="Static Badge" src="https://img.shields.io/badge/React-seagreen?style=flat-square&logo=react&logoColor=seagreen&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
+        <img alt="Static Badge" src="https://img.shields.io/badge/VS Code-seagreen?style=flat-square&logoColor=seagreen&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
+      </p>
+<!-- End Current stack -->
+   
+<!-- Stacks I'm learning -->
+  <p align="center"><em>Next in line:</em></p>
+    <p align="center"><img alt="Static Badge" src="https://img.shields.io/badge/GSAP-seagreen?style=flat-square&logo=gsap&logoColor=seagreen&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
+      <img alt="Static Badge" src="https://img.shields.io/badge/SQL-seagreen?style=flat-square&logo=mysql&logoColor=seagreen&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
+      <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-seagreen?style=flat-square&logo=mongodb&logoColor=seagreen&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-seagreen?style=flat-square&logo=nodedotjs&logoColor=seagreen&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
+    </p>
+<!-- End Stacks I'm learning -->
 
 
 
 
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cassmcxi&show_icons=true&locale=en&layout=compact" alt="cassmcxi" /></p>
-<br>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cassmcxi&show_icons=true&locale=en" alt="cassmcxi" /></p>
-
-<br>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cassmcxi&" alt="cassmcxi" /></p>
-
+<p align="center"><a href="mailto:cassieannpro@gmail.com?subject=Hey friend&body=How are you?">cassieannpro@gmail.com</a></p>
