@@ -15,7 +15,9 @@
   <body>
     <p align="center">I'm a self taught designer and developer who leans towards <em>creative front-end developing</em> and learning full stack on the side.</p>
 <!-- End Introduction -->
-    <p align="center">⌖</p>
+ 
+  <p align="center">⌖</p>
+    
 <!-- Currrent stack -->
   <p align="center">Currently learning the <em>Full Stack Dev curriculum</em> on freeCodeCamp. 
     <br> My learning is paired with things like <em>The Odin Project</em>, <em>lil sidequests</em>, and hands on <em>freelance.</em>
@@ -23,18 +25,18 @@
     <br>
     <br>
       <em>Here's my current stack:</em></p>
-      <p align="center"><img alt="Static Badge" src="https://img.shields.io/badge/HTML-seagreen?style=flat-square&logo=html5&logoColor=seagreen&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
-        <img alt="Static Badge" src="https://img.shields.io/badge/CSS-seagreen?style=flat-square&logo=css&logoColor=seagreen&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
-        <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-seagreen?style=flat-square&logo=javascript&logoColor=seagreen&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
-        <img alt="Static Badge" src="https://img.shields.io/badge/Figma-seagreen?style=flat-square&logo=figma&logoColor=seagreen&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
-        <img alt="Static Badge" src="https://img.shields.io/badge/Claude%20Code-seagreen?style=flat-square&logo=claude&logoColor=seagreen&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
-          <br>
-        <img alt="Static Badge" src="https://img.shields.io/badge/Framer-seagreen?style=flat-square&logo=framer&logoColor=seagreen&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
-        <img alt="Static Badge" src="https://img.shields.io/badge/Python-seagreen?style=flat-square&logo=python&logoColor=seagreen&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
-        <img alt="Static Badge" src="https://img.shields.io/badge/Webflow-seagreen?style=flat-square&logo=webflow&logoColor=seagreen&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
-        <img alt="Static Badge" src="https://img.shields.io/badge/React-seagreen?style=flat-square&logo=react&logoColor=seagreen&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
-        <img alt="Static Badge" src="https://img.shields.io/badge/VS Code-seagreen?style=flat-square&logoColor=seagreen&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
-      </p>
+    <p align="center"><img alt="Static Badge" src="https://img.shields.io/badge/HTML-seagreen?style=flat-square&logo=html5&logoColor=seagreen&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
+      <img alt="Static Badge" src="https://img.shields.io/badge/CSS-seagreen?style=flat-square&logo=css&logoColor=seagreen&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-seagreen?style=flat-square&logo=javascript&logoColor=seagreen&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Figma-seagreen?style=flat-square&logo=figma&logoColor=seagreen&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Claude%20Code-seagreen?style=flat-square&logo=claude&logoColor=seagreen&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
+        <br>
+      <img alt="Static Badge" src="https://img.shields.io/badge/Framer-seagreen?style=flat-square&logo=framer&logoColor=seagreen&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Python-seagreen?style=flat-square&logo=python&logoColor=seagreen&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Webflow-seagreen?style=flat-square&logo=webflow&logoColor=seagreen&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
+      <img alt="Static Badge" src="https://img.shields.io/badge/React-seagreen?style=flat-square&logo=react&logoColor=seagreen&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
+      <img alt="Static Badge" src="https://img.shields.io/badge/VS Code-seagreen?style=flat-square&logoColor=seagreen&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
+    </p>
 <!-- End Current stack -->
    
 <!-- Stacks I'm learning -->
@@ -45,6 +47,14 @@
       <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-seagreen?style=flat-square&logo=nodedotjs&logoColor=seagreen&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
     </p>
 <!-- End Stacks I'm learning -->
+
+<!-- Projects I'm working on -->
+  <p align="center"></p> 
+  <!-- Graphics elements go here -->
+
+
+
+<!-- End Projects I'm working on -->
 
 
 
