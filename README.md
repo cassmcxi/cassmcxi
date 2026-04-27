@@ -49,14 +49,12 @@
 <!-- End Stacks I'm learning -->
 
 <!-- Projects I'm working on -->
-  <p align="center"></p> 
-  <!-- Graphics elements go here -->
-
-
-
+  <p align="center">Projects I'm currently working on include building responsive pages with parallax features from a design I created in Figma, and learning how to contribute to open source projects.</p>
 <!-- End Projects I'm working on -->
 
 
 
-
+<!-- Email -->
 <p align="center"><a href="mailto:cassieannpro@gmail.com?subject=Hey friend&body=How are you?">cassieannpro@gmail.com</a></p>
+<!-- End Email -->
+
