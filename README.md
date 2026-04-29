@@ -49,7 +49,7 @@
 <!-- End Stacks I'm learning -->
 
 <!-- Projects I'm working on -->
-  <p align="center">Projects I'm currently working on include building responsive pages with parallax features from a design I created in Figma, and learning how to contribute to open source projects.</p>
+  <p align="center">Projects I'm currently working on include building responsive pages with parallax features from a design I created in Figma, CS50 problem sets, and learning how to contribute to open source projects.</p>
 <!-- End Projects I'm working on -->
 
 
