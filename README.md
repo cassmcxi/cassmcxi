@@ -19,7 +19,7 @@
   <p align="center">⌖</p>
     
 <!-- Currrent stack -->
-  <p align="center">Currently learning the <em>Full Stack Dev curriculum</em> on freeCodeCamp as well as <em>CS50</em> through HarvardX. 
+  <p align="center">Currently learning the <em>Full Stack Dev curriculum</em> on freeCodeCamp as well as <em>CS50x</em> through Harvard. 
     <br> My learning is paired with things like <em>The Odin Project</em>, <em>lil sidequests</em>, and hands on <em>freelance.</em>
     <br> < I also just love building things and having fun .𖥔 ݁ ˖ > </I>
     <br>
