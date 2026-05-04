@@ -48,7 +48,8 @@
 <!-- End Stacks I'm learning -->
 
 <!-- Projects I'm working on -->
-  <p align="center">Projects I'm currently working on: CS50 problem sets, and learning how to contribute to open source projects.</p>
+  <p align="center">Projects I'm currently working on:<br>
+    CS50 problem sets, and learning how to contribute to open source projects.</p>
 <!-- End Projects I'm working on -->
 
 
