@@ -44,7 +44,6 @@
     <p align="center"><img alt="Static Badge" src="https://img.shields.io/badge/GSAP-seagreen?style=flat-square&logo=gsap&logoColor=seagreen&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
       <img alt="Static Badge" src="https://img.shields.io/badge/SQL-seagreen?style=flat-square&logo=mysql&logoColor=seagreen&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
       <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-seagreen?style=flat-square&logo=mongodb&logoColor=seagreen&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
-      <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-seagreen?style=flat-square&logo=nodedotjs&logoColor=seagreen&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
     </p>
 <!-- End Stacks I'm learning -->
 
