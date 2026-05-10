@@ -13,17 +13,15 @@
 
 <!-- Introduction -->
   <body>
-    <p align="center">I'm a self taught designer and developer who leans towards <em>creative front-end developing</em> and learning full stack on the side.</p>
+    <p align="center">Front-end developer & designer, I write the code and make it look pretty.
+  Working toward full stack through Harvard CS50x and freeCodeCamp.
+  Always open to freelance, collabs, and whatever comes next. </p>
 <!-- End Introduction -->
  
   <p align="center">⌖</p>
     
 <!-- Currrent stack -->
-  <p align="center">Currently learning the <em>Full Stack Dev curriculum</em> on freeCodeCamp as well as <em>CS50x</em> through Harvard. 
-    <br> My learning is paired with things like <em>The Odin Project</em>, <em>lil sidequests</em>, and hands on <em>freelance.</em>
-    <br> < I also just love building things and having fun .𖥔 ݁ ˖ > </I>
-    <br>
-    <br>
+  <p align="center">
       <em>Here's my current stack:</em></p>
     <p align="center"><img alt="Static Badge" src="https://img.shields.io/badge/HTML-seagreen?style=flat-square&logo=html5&logoColor=seagreen&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
       <img alt="Static Badge" src="https://img.shields.io/badge/CSS-seagreen?style=flat-square&logo=css&logoColor=seagreen&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
@@ -46,11 +44,6 @@
       <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-seagreen?style=flat-square&logo=mongodb&logoColor=seagreen&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
     </p>
 <!-- End Stacks I'm learning -->
-
-<!-- Projects I'm working on -->
-  <p align="center">Projects I'm currently working on:<br>
-    CS50 problem sets, and learning how to contribute to open source projects.</p>
-<!-- End Projects I'm working on -->
 
 
 
