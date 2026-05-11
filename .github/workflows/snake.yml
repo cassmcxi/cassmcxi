@@ -12,7 +12,7 @@ jobs:
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/github-snake-dark.svg?palette=github-dark&color_snake=#00011f&color_dots=#fff1e6,#f5e5bf,#f2deaf,#eacd8a,#e1bc64,#d9ab3f
+          outputs: dist/github-snake-dark.svg?palette=github-dark&color_snake=#00011f&color_dots=#c7d8dc,#f5e5bf,#f2deaf,#eacd8a,#e1bc64,#d9ab3f
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
