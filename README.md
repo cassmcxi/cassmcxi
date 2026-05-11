@@ -47,9 +47,7 @@
     </p>
 <!-- End Stacks I'm learning -->
 
-<picture>
-    <img alt="snake" src="https://raw.githubusercontent.com/cassmcxi/cassmcxi/output/github-snake-dark.svg" />
-  </picture>
+
 
 <!-- Email -->
 <p align="center"><a href="mailto:cassieannpro@gmail.com?subject=Hey friend&body=How are you?">cassieannpro@gmail.com</a></p>
