@@ -21,23 +21,27 @@
 <!-- End Socials -->
  
   <p align="center">⌖</p>
-    
-<!-- Currrent stack -->
-  <p align="center">
-      <em>Current:</em></p>
-    <p align="center"><img alt="Static Badge" src="https://img.shields.io/badge/HTML-seagreen?style=flat-square&logo=html5&logoColor=black&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
+
+
+  
+   <p align="center"><img alt="Static Badge" src="https://img.shields.io/badge/HTML-seagreen?style=flat-square&logo=html5&logoColor=black&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
       <img alt="Static Badge" src="https://img.shields.io/badge/CSS-seagreen?style=flat-square&logo=css&logoColor=black&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
       <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-seagreen?style=flat-square&logo=javascript&logoColor=black&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
       <img alt="Static Badge" src="https://img.shields.io/badge/Figma-seagreen?style=flat-square&logo=figma&logoColor=black&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
       <img alt="Static Badge" src="https://img.shields.io/badge/Claude%20Code-seagreen?style=flat-square&logo=claude&logoColor=black&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
-        <br>
+      <img alt="Static Badge" src="https://img.shields.io/badge/dotnet-black?style=flat-square&logo=dotnet&logoColor=black&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
+      <img alt="Static Badge" src="https://img.shields.io/badge/theodinproject-black?style=flat-square&logo=theodinproject&logoColor=black&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600"><br>
       <img alt="Static Badge" src="https://img.shields.io/badge/Framer-seagreen?style=flat-square&logo=framer&logoColor=black&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
       <img alt="Static Badge" src="https://img.shields.io/badge/Python-seagreen?style=flat-square&logo=python&logoColor=black&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
       <img alt="Static Badge" src="https://img.shields.io/badge/Webflow-seagreen?style=flat-square&logo=webflow&logoColor=black&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
       <img alt="Static Badge" src="https://img.shields.io/badge/React-seagreen?style=flat-square&logo=react&logoColor=black&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
       <img alt="Static Badge" src="https://img.shields.io/badge/VS Code-seagreen?style=flat-square&logoColor=black&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
+      <img alt="Static Badge" src="https://img.shields.io/badge/YAML-black?style=flat-square&logo=yaml&logoColor=black&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
+      <img alt="Static Badge" src="https://img.shields.io/badge/C%23-black?style=flat-square&logoColor=black&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
+      <img alt="Static Badge" src="https://img.shields.io/badge/freeCodeCamp-black?style=flat-square&logo=freecodecamp&logoColor=black&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
     </p>
-<!-- End Current stack -->
+    
+
    
 <!-- Stacks I'm learning -->
   <p align="center"><em>Next in line:</em></p>
