@@ -39,7 +39,8 @@
       <img alt="Static Badge" src="https://img.shields.io/badge/YAML-black?style=flat-square&logo=yaml&logoColor=black&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
       <img alt="Static Badge" src="https://img.shields.io/badge/C%23-black?style=flat-square&logoColor=black&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
       <img alt="Static Badge" src="https://img.shields.io/badge/freeCodeCamp-black?style=flat-square&logo=freecodecamp&logoColor=black&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
-    </p>
+     <img alt="Static Badge" src="https://img.shields.io/badge/Bash-black?style=flat-square&logo=gnubash&logoColor=black&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
+  </p>
     
 
    
