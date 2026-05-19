@@ -13,7 +13,6 @@
 
 <!-- Socials -->
   <p align="center"><img alt="Static Badge" src="https://img.shields.io/badge/Instagram-black?style=flat&logo=instagram&logoColor=white&logoSize=auto&labelColor=black&color=white&cacheSeconds=3600&link=https%3A%2F%2Finstagram.com%2Fcassmcxi">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Coffee-black?style=flat&logo=buymeacoffee&logoColor=white&logoSize=auto&labelColor=black&color=white&cacheSeconds=3600&link=https%3A%2F%2Fbuymeacoffee.com%2Fcassmcxi">
     <img alt="Static Badge" src="https://img.shields.io/badge/Dev.to-black?style=flat&logo=devdotto&logoColor=white&logoSize=auto&labelColor=black&color=white&cacheSeconds=3600&link=https%3A%2F%2Fdev.to%2Fcassmcxi">
     <img alt="Static Badge" src="https://img.shields.io/badge/Cassmcxi-white?style=flat&logo=discord&logoColor=white&logoSize=auto&labelColor=black&color=white&cacheSeconds=3600&link=https%3A%2F%2Fdiscord.com">
     <img alt="Static Badge" src="https://img.shields.io/badge/Dribbble-black?style=flat&logo=dribbble&logoColor=white&logoSize=auto&labelColor=black&color=white&cacheSeconds=3600&link=https%3A%2F%2Fdribbble.com%2Fcassmcxi">
