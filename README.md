@@ -6,7 +6,7 @@
 
 <!-- Introduction -->
   <body>
-    <p align="center">Front-end developer & designer, I write the code and make it look pretty. <br>
+    <p align="center">Front-end developer & designer<br>
   Working toward full stack through Harvard CS50x and freeCodeCamp. <br>
   Always open to freelance, collabs, and whatever comes next. </p>
 <!-- End Introduction -->
