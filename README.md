@@ -39,21 +39,11 @@
       <img alt="Static Badge" src="https://img.shields.io/badge/C%23-black?style=flat-square&logoColor=black&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
       <img alt="Static Badge" src="https://img.shields.io/badge/freeCodeCamp-black?style=flat-square&logo=freecodecamp&logoColor=black&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
      <img alt="Static Badge" src="https://img.shields.io/badge/Bash-black?style=flat-square&logo=gnubash&logoColor=black&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
+     <img alt="Static Badge" src="https://img.shields.io/badge/SQL-seagreen?style=flat-square&logo=mysql&logoColor=black&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
   </p>
     
 
    
-<!-- Stacks I'm learning -->
-  <p align="center"><em>Next in line:</em></p>
-    <p align="center"><img alt="Static Badge" src="https://img.shields.io/badge/GSAP-seagreen?style=flat-square&logo=gsap&logoColor=black&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
-      <img alt="Static Badge" src="https://img.shields.io/badge/SQL-seagreen?style=flat-square&logo=mysql&logoColor=black&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
-      <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-seagreen?style=flat-square&logo=mongodb&logoColor=black&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
-    </p>
-<!-- End Stacks I'm learning -->
-
-<picture align="center">
-    <img alt="snake" src="https://github.com/cassmcxi/cassmcxi/blob/output/github-snake-dark.svg" />
-  </picture>
 
 
 <!-- Email -->
