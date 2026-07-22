@@ -21,9 +21,7 @@
  
   <p align="center">⌖</p>
 
-
-  
-   <p align="center"><img alt="Static Badge" src="https://img.shields.io/badge/HTML-seagreen?style=flat-square&logo=html5&logoColor=black&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
+  <p align="center"><img alt="Static Badge" src="https://img.shields.io/badge/HTML-seagreen?style=flat-square&logo=html5&logoColor=black&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
       <img alt="Static Badge" src="https://img.shields.io/badge/CSS-seagreen?style=flat-square&logo=css&logoColor=black&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
       <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-seagreen?style=flat-square&logo=javascript&logoColor=black&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
       <img alt="Static Badge" src="https://img.shields.io/badge/Figma-seagreen?style=flat-square&logo=figma&logoColor=black&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
@@ -44,7 +42,7 @@
 
 
 
-<!-- add docker -->
+<!-- add docker, next.js, postgresql, supabase -->
 
    
 
