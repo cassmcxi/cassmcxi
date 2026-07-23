@@ -1,3 +1,12 @@
-<img src="assets/banner-full.png" width="852" alt="Cassie Bello — SWE / Design. Curiosity may have killed the cat, but it's what keeps me designing, engineering, and connecting the dots alongside systems and amazing people.">
+<img src="assets/banner.png" width="852" alt="Cassie Bello — SWE / Design. Curiosity may have killed the cat, but it's what keeps me designing, engineering, and connecting the dots alongside systems and amazing people.">
 
-<a href="https://instagram.com/cassmcxi">Instagram</a> &nbsp;·&nbsp; <a href="https://discord.com">Discord</a> &nbsp;·&nbsp; <a href="mailto:cassieannpro@gmail.com">Gmail</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/cassiebello/">Linkedin</a> &nbsp;·&nbsp; <a href="mailto:cassieannpro@gmail.com?subject=DataAnnotation%20referral&body=Hi%20Cassie%2C%20could%20you%20send%20me%20your%20DataAnnotation%20referral%20link%3F">dataannotation.tech</a>
+<p>
+  <a href="mailto:cassieannpro@gmail.com?subject=DataAnnotation%20referral&body=Hi%20Cassie%2C%20could%20you%20send%20me%20your%20DataAnnotation%20referral%20link%3F"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/txt-dataannotation-white.png"><img align="right" src="assets/txt-dataannotation.png" height="18" alt="Email Cassie for a DataAnnotation referral"></picture></a>
+  <a href="https://instagram.com/cassmcxi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/txt-instagram-white.png"><img src="assets/txt-instagram.png" height="18" alt="Instagram"></picture></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/txt-discord-white.png"><img src="assets/txt-discord.png" height="18" alt="Discord"></picture></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:cassieannpro@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/txt-gmail-white.png"><img src="assets/txt-gmail.png" height="18" alt="Gmail"></picture></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/cassiebello/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/txt-linkedin-white.png"><img src="assets/txt-linkedin.png" height="18" alt="Linkedin"></picture></a>
+</p>
