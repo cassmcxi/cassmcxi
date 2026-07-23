@@ -1,53 +1,12 @@
-<!-- Title -->
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cutive+Mono&weight=100&size=19&letterSpacing=&pause=1000&color=FFFFFF&width=200&lines=.%E2%8B%86+Cassie+Bello+%CB%9A%E2%8B%86+" alt="Typing SVG" /></a>
-  </div>
-<!-- End Title -->
+<img src="assets/banner.png" width="852" alt="Cassie Bello — SWE / Design. Curiosity may have killed the cat, but it's what keeps me designing, engineering, and connecting the dots alongside systems and amazing people.">
 
-<!-- Introduction -->
-  <body>
-    <p align="center">Developer | Designer<br>
-  Working toward full stack through Harvard CS50x and freeCodeCamp. <br>
-  Always open to freelance, collabs, and whatever comes next. </p>
-<!-- End Introduction -->
-
-<!-- Socials -->
-  <p align="center"><img alt="Static Badge" src="https://img.shields.io/badge/Instagram-black?style=flat&logo=instagram&logoColor=white&logoSize=auto&labelColor=black&color=white&cacheSeconds=3600&link=https%3A%2F%2Finstagram.com%2Fcassmcxi">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Dev.to-black?style=flat&logo=devdotto&logoColor=white&logoSize=auto&labelColor=black&color=white&cacheSeconds=3600&link=https%3A%2F%2Fdev.to%2Fcassmcxi">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Cassmcxi-white?style=flat&logo=discord&logoColor=white&logoSize=auto&labelColor=black&color=white&cacheSeconds=3600&link=https%3A%2F%2Fdiscord.com">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Dribbble-black?style=flat&logo=dribbble&logoColor=white&logoSize=auto&labelColor=black&color=white&cacheSeconds=3600&link=https%3A%2F%2Fdribbble.com%2Fcassmcxi">
-  </p>
-<!-- End Socials -->
- 
-  <p align="center">⌖</p>
-
-  <p align="center"><img alt="Static Badge" src="https://img.shields.io/badge/HTML-seagreen?style=flat-square&logo=html5&logoColor=black&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
-      <img alt="Static Badge" src="https://img.shields.io/badge/CSS-seagreen?style=flat-square&logo=css&logoColor=black&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
-      <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-seagreen?style=flat-square&logo=javascript&logoColor=black&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
-      <img alt="Static Badge" src="https://img.shields.io/badge/Figma-seagreen?style=flat-square&logo=figma&logoColor=black&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
-      <img alt="Static Badge" src="https://img.shields.io/badge/Claude%20Code-seagreen?style=flat-square&logo=claude&logoColor=black&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
-      <img alt="Static Badge" src="https://img.shields.io/badge/dotnet-black?style=flat-square&logo=dotnet&logoColor=black&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
-      <img alt="Static Badge" src="https://img.shields.io/badge/theodinproject-black?style=flat-square&logo=theodinproject&logoColor=black&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600"><br>
-      <img alt="Static Badge" src="https://img.shields.io/badge/Framer-seagreen?style=flat-square&logo=framer&logoColor=black&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
-      <img alt="Static Badge" src="https://img.shields.io/badge/Python-seagreen?style=flat-square&logo=python&logoColor=black&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
-      <img alt="Static Badge" src="https://img.shields.io/badge/Webflow-seagreen?style=flat-square&logo=webflow&logoColor=black&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
-      <img alt="Static Badge" src="https://img.shields.io/badge/React-seagreen?style=flat-square&logo=react&logoColor=black&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
-      <img alt="Static Badge" src="https://img.shields.io/badge/VS Code-seagreen?style=flat-square&logoColor=black&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
-      <img alt="Static Badge" src="https://img.shields.io/badge/YAML-black?style=flat-square&logo=yaml&logoColor=black&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
-      <img alt="Static Badge" src="https://img.shields.io/badge/C%23-black?style=flat-square&logoColor=black&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
-      <img alt="Static Badge" src="https://img.shields.io/badge/freeCodeCamp-black?style=flat-square&logo=freecodecamp&logoColor=black&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
-     <img alt="Static Badge" src="https://img.shields.io/badge/Bash-black?style=flat-square&logo=gnubash&logoColor=black&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
-     <img alt="Static Badge" src="https://img.shields.io/badge/SQL-seagreen?style=flat-square&logo=mysql&logoColor=black&logoSize=auto&labelColor=white&color=lavender&cacheSeconds=3600">
-  </p>
-
-
-
-<!-- add docker, next.js, postgresql, supabase -->
-
-   
-
-
-<!-- Email -->
-<p align="center"><a href="mailto:cassieannpro@gmail.com?subject=Hey friend&body=How are you?">cassieannpro@gmail.com</a></p>
-<!-- End Email -->
-
+<p>
+  <a href="mailto:cassieannpro@gmail.com?subject=DataAnnotation%20referral&body=Hi%20Cassie%2C%20could%20you%20send%20me%20your%20DataAnnotation%20referral%20link%3F"><img align="right" src="assets/link-dataannotation.png" width="113" alt="Email Cassie for a DataAnnotation referral"></a>
+  <a href="https://instagram.com/cassmcxi"><img src="assets/link-instagram.png" width="55" alt="Instagram"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com"><img src="assets/link-discord.png" width="42" alt="Discord"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:cassieannpro@gmail.com"><img src="assets/link-gmail.png" width="31" alt="Gmail"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/cassiebello/"><img src="assets/link-linkedin.png" width="46" alt="Linkedin"></a>
+</p>
